@@ -1,0 +1,446 @@
+klasse, geschlecht, vorname, name, geburtsdatum
+3a,w,Malak,Almohamad,02.01.2014
+3a,m,Cristian,Botnari,24.08.2014
+3a,m,Johannes,Adriel,28.08.2014
+3a,m,Maximilian,Dimitrov,24.04.2014
+3a,m,Alexander,Domnin,03.05.2014
+3a,w,Daria,Erdneev,17.11.2014
+3a,w,Lilly,Hardtke,16.11.2014
+3a,m,Melvyn-Sean,Lassarzig,21.04.2014
+3a,w,Jenny-Vy,Le,05.03.2014
+3a,m,Bogdan,Nedelcu,06.03.2015
+3a,m,Eric,Nguyen,20.08.2015
+3a,w,Julia-Ngoc,Nguyen,22.03.2015
+3a,m,Philipp,Nguyen,03.09.2015
+3a,m,Nnamdi-Jayden,Okechukwu,26.10.2015
+3a,w,Lena-Sophie,Pietsch,10.06.2014
+3a,m,Jakub,Piotrowski,27.03.2015
+3a,m,Denis,Romaniuc,24.05.2013
+3a,m,Emil,Rusitovic,23.01.2014
+3a,m,Maxim,Sapoval,24.03.2015
+3a,w,Emily-Sophia,Schiepe,19.02.2014
+3a,m,Finley,Scholz,14.02.2014
+3a,m,Damien,Schweda,20.09.2014
+3a,w,Katja,Shabanbaev,04.09.2015
+3a,m,Hela,Sulaiman-Khail,17.10.2014
+3a,w,Lara-Sophie,Thiele,26.05.2014
+3a,w,Tina,Vo,18.03.2015
+3a,w,Mia,Vu,16.05.2014
+3a,w,Maya-Sophie,Zalewski,17.12.2014
+3b,w,Esra,Altindag,02.02.2015
+3b,w,Josephine,Ciezki,24.05.2015
+3b,m,Maciej,Dolinski,20.07.2014
+3b,w,Lydia-Johanne,Fest,07.04.2014
+3b,w,Amira-Katharina,Friedheim,04.03.2015
+3b,w,Kate-Fabienne-Summer,Geisler,17.03.2014
+3b,m,Felix,Goedecke,21.06.2015
+3b,m,Emil-Johannes,Habeck,29.07.2015
+3b,w,Emily-Melissa,Hase,24.05.2015
+3b,w,Lesly-Marie,Heiert,27.11.2014
+3b,m,Fynn-Lucian,Klietsch,05.08.2014
+3b,m,Tamino-Maurice,Litschko,20.07.2015
+3b,w,Taida,Muric,20.08.2013
+3b,w,Charlott,Neumann,17.04.2014
+3b,m,Levi,Nguyen,13.04.2015
+3b,m,Ermin,Numanovic,30.12.2014
+3b,w,Karolina,Pavliuk,26.03.2015
+3b,m,Thorben,Petrak,13.07.2013
+3b,w,Phelina,Quast,05.08.2013
+3b,w,Sofie,Schlegel,30.03.2015
+3b,w,Emily-Peyton,Schmidt,16.09.2015
+3b,w,Erza,Shala,30.05.2014
+3b,m,Arthur,Snurnikov,06.02.2015
+3b,m,Oskar,Walleit,22.01.2014
+3b,m,Arik-Thor-Joachim,Walther,06.09.2014
+3b,m,Leon-Tyler,Weber,05.08.2014
+3b,w,Joleena,Winkelmann,22.08.2014
+3c,w,Lamis,Abdulmuhsen,19.01.2014
+3c,w,Joline-Stephanie,Bauch,21.10.2013
+3c,m,Aaron-Eduard,Berthold,12.09.2014
+3c,m,Finn-Joachim,Bettac,05.02.2014
+3c,m,Oliwier,Brzozka,16.07.2014
+3c,m,Dario,Salvatore,03.11.2014
+3c,w,Anastasia,Cojocaru,16.05.2015
+3c,m,Azad-Baran,Ekinci,09.01.2014
+3c,m,Devran-Osman,Ekinci,04.07.2015
+3c,m,Yuzarsif,Ekinci,15.04.2014
+3c,m,Fynn-Raphael,Gems,13.03.2014
+3c,w,Jana,Ghrmay,05.09.2015
+3c,m,Yusif,Hashimi,08.08.2013
+3c,w,Vivien,Horvathova,23.12.2014
+3c,m,Julian,Jaquet,19.05.2014
+3c,w,Emily,Mai,24.03.2014
+3c,m,John-Noah,Möller,30.09.2013
+3c,w,Mina,Muschter,09.12.2014
+3c,w,Jennifer,Nguyen,08.05.2015
+3c,w,Mai-Chi,Nguyen,25.03.2014
+3c,m,Heja,Omar,25.08.2015
+3c,w,Celina,Oso,12.11.2013
+3c,m,Phu-Thanh,Quach,06.02.2015
+3c,w,Amalia,Ramin,27.06.2014
+3c,w,Violetta,Saratschnij,07.05.2015
+3c,m,Elias,Schuhmacher,15.04.2015
+3c,m,Martin-Huy-Hoang,Thai,14.09.2014
+3c,m,Jamie-Lenox,Winkelmann,21.11.2013
+3c,m,Ilias,Zäh,15.06.2014
+3d,m,Joel-Nhyira,Afari,01.10.2014
+3d,m,Leon,Bahr,07.07.2014
+3d,m,Jonas-Thomas,Beck,18.02.2015
+3d,m,Maxim,Cabusa,23.12.2014
+3d,m,Daniel,Fröhlich,07.04.2015
+3d,w,Dumitrita,Garstea,04.10.2014
+3d,m,Alexander,Goldschmidt,27.07.2015
+3d,w,Mariam,Hafez,05.06.2015
+3d,m,Said-Ali-Abas,Hosaini,01.02.2015
+3d,w,Sophia-Victoria,Jersabek,18.12.2014
+3d,m,Alexander,Kalschinski,22.02.2015
+3d,w,Magdalene-Nyonglema,Langmia,01.07.2015
+3d,m,Pascal,Neumann,17.04.2014
+3d,w,Hanna,Nguyen,16.07.2015
+3d,m,Kirill,Nikitin,14.04.2015
+3d,w,Oceane-Kayliah,Noumbissie-Edem,28.04.2015
+3d,m,Emmett,Owusu,10.06.2015
+3d,m,Zacharias,Pochnichuk,02.02.2015
+3d,m,Sam,Sagawe,05.02.2016
+3d,m,Elias,Schostag,06.04.2014
+3d,m,Luca,Schostag,06.04.2014
+3d,w,Emilie-Julia,Schultrich,25.03.2014
+3d,w,Leonie,Stensky,12.08.2014
+3d,m,Aljoscha,Troparev,09.10.2015
+3d,w,Lena-Ute,Uhrig,26.05.2015
+3d,m,Wlad,Weigandt,04.07.2014
+3d,w,Railey-Leonie,Werenbeck-Ueding,27.02.2015
+3d,m,Benjamin-Joachim-Klaus,Wößner,17.07.2015
+4a,w,Sofia,Albakov,13.02.2014
+4a,w,Selena,Alzayat,15.11.2013
+4a,m,Ben,Balkhaus,12.06.2014
+4a,m,Fabian,Bartmann,28.09.2014
+4a,w,Angelina,Barz,02.01.2014
+4a,w,Romy Christine Petra,Brandt,15.08.2014
+4a,m,James Luca,Draffehn,08.11.2013
+4a,m,Yusuf Deniz,Ekinci,22.10.2012
+4a,m,Fynn Sven Noel,Fielbrandt,02.05.2012
+4a,w,Antonia Emily,Friedheim,19.04.2013
+4a,m,Denis,Gibert,16.12.2013
+4a,w,Laura,Halbleib,24.02.2014
+4a,m,Jamie Rudolf,Hermelschmidt,20.07.2013
+4a,m,Miron,Kaiser,22.04.2013
+4a,w,Leni,Köppe,24.09.2012
+4a,w,Nina,Le,28.08.2013
+4a,w,Esma ,Muric,08.09.2014
+4a,w,Tuan Ahn,Pham,25.10.2012
+4a,m,Simas ,Puskepalis,03.11.2013
+4a,w,Angelina,Saretschnij,03.02.2014
+4a,w,Sophia,Saurin,18.05.2014
+4a,w,Alina,Troparev,22.02.2014
+4a,w,Lina,Trunschke,23.05.2013
+4a,m,Jeremy,Ulrich,27.03.2014
+4a,m,Mateja,Dcinjic,1.1.2014
+4a,m,Cesare Lucius Kevin Rumoel Reinhold,Neumann,23.02.2014
+4b,w,Fabienne,Behrend,14.06.2012
+4b,m,Tyler Bastian,Behrend,04.07.2013
+4b,m,Gorden-James Heiko,Buß,21.05.2014
+4b,m,Luka,Clazer Kurpiel Sieg,23.07.2012
+4b,m,Ferhat,Ekinci,19.10.2012
+4b,w,Dcemile Rumyanova,Filipova,03.03.2013
+4b,w,Zoé Elaina,Gall,18.04.2014
+4b,m,Nils,Goedecke,30.11.2013
+4b,w,Leah,Haushahn,13.08.2012
+4b,w,Jasmin Eleonora Kim,Hofmann,05.03.2014
+4b,m,Leon,Kluge,06.04.2013
+4b,m,Tyler,Kretschmann,01.02.2013
+4b,m,Finn,Kretschmer,14.05.2014
+4b,m,Yusuf,Magomedov,02.01.2014
+4b,m,Michael Fia Huy,Mai,01.12.2013
+4b,m,Sascha Jan Wieland,Messow,15.04.2013
+4b,w,Lisa,Mikolajczak,11.05.2014
+4b,w,Anh Vu,Nguyen,10.06.2014
+4b,w,Martina,Nguyen,10.05.2014
+4b,w,Neele,Pfeiffer,15.12.2013
+4b,w,Amée Jolee,Röhl,03.03.2014
+4b,w,Amelia Fiona,Röver,10.07.2014
+4b,w,Sarah Miriam,Sauer,16.12.2013
+4b,w,Nena-Sophia,Walter,13.02.2013
+4b,m,John,Zander,01.04.2014
+4b,w,Rufaud,Khahil,05.05.2013
+4c,m,Louis David,Behrendt,06.02.2013
+4c,m,Gian-Luca Bruno,Care,21.02.2013
+4c,w,Jane,Hasse,06.07.2013
+4c,w,Jasmin Jessica Pauline,Hoffmann,02.01.2013
+4c,m,Lukas Martin,Hoffmann,02.01.2013
+4c,m,Joshua Dustin Günter,Hollberg,11.05.2013
+4c,m,Amos-David,Ion,07.05.2012
+4c,w,Salomea-Bianca,Ion,07.05.2012
+4c,m,Eugene Muhia,Karanja,19.09.2013
+4c,m,Darius Reinhard,Knoll,18.09.2013
+4c,w,Sofia,Koropcuk,22.07.2014
+4c,m,Jack Lutz,Lange,27.02.2014
+4c,w,Emily,Marschall,14.09.2013
+4c,w,Emma Saphira,Marx,20.09.2013
+4c,m,Bogdan,Miloyanin,25.09.2013
+4c,w,Mai Linh,Nguyen,25.09.2012
+4c,w,Amara Sirin,Özkul,06.02.2013
+4c,m,Sukhmanjot Singh,Saini,23.06.2014
+4c,m,Tristan,Schlein,31.03.2014
+4c,m,Artjom,Spieß,26.11.2012
+4c,m,Jack ,Stohf,06.12.2012
+4c,m,John Peter,Szynaka,18.03.2014
+4c,w,Amina,Velcani,22.02.2014
+4c,m,Marko,Vukusic,20.03.2013
+4c,w,Michelle Sandra,Zalewski,27.01.2013
+4c,m,Abdoulaye,Sow,01.01.2013
+4d,m,Ilknur Pinar,Almas,18.11.2013
+4d,m,Eduard,Behnke,12.10.2012
+4d,m,Maksim,Beidner,13.09.2013
+4d,m,Tyron,Bläsing,17.12.2013
+4d,m,Lucjan,Dolinski,06.04.2013
+4d,w,Sofia,Donici,18.07.2014
+4d,m,Jason Elias,Haack,29.05.2014
+4d,m,Owen,Hensel,08.05.2013
+4d,w,Charlie-Marie,Herzer,24.01.2013
+4d,m,Miron,Kondraschin,08.12.2012
+4d,m,Leon,Kundik,20.07.2014
+4d,m,Finley Aron,Kupferschmidt,02.09.2012
+4d,w,Amelia,Majewska,04.02.2012
+4d,w,Oliwia,Majewska,04.02.2012
+4d,w,Sophia-Lena,Manteufel,11.03.2014
+4d,m,Nihad,Muric,03.07.2012
+4d,m,Levi,Osei Owusu,22.10.2013
+4d,m,Adil Faisal,Saad,22.05.2013
+4d,w,Elmedina,Serifovic,19.02.2014
+4d,w,Jana Marie,Stehr,14.01.2013
+4d,w,Nadja,Sznajder,28.11.2012
+4d,m,Ebru,Topcu,12.12.2013
+4d,w,Layla Inez,Wießner,23.04.2014
+4d,m,Mohamed,Camara,01.01.2012
+4d,w,Mohadesa,Mohamadi,01.06.2013
+4d,m,Jonas,Weber,11.11.2012
+5a,w,Lyubow,Behnke,12.10.2012
+5a,w,Emily Sophie,Berkhauer,30.03.2013
+5a,w,Tariane,de Barros,08.10.2012
+5a,w,Elena,Didenko,26.11.2012
+5a,m,Alexander Karsten,Diefert,02.07.2012
+5a,m,Benjamin,Dietrich,01.08.2012
+5a,m,Yehya,Ghannam,15.06.2013
+5a,m,Felix,Guhl,26.03.2012
+5a,w,Daliah Fabienne,Heffe,05.08.2011
+5a,m,Alexander,Jersabek,17.10.2012
+5a,m,Abu-Bakr Patakhowitsch,Kazimagomedov,19.01.2013
+5a,m,Murad,Khalil,18.12.2012
+5a,m,Kevin Hai Dang,Le,16.09.2012
+5a,m,Michael Gia Bao,Mai,20.09.2012
+5a,m,Tim,Moldenhauer,23.07.2013
+5a,w,Do Bao Anh,Nguyen,16.03.2013
+5a,m,Mohammad,Ossi,23.03.2012
+5a,m,Jossef,Ossi,23.02.2012
+5a,m,Jan Eric,Richter,05.06.2013
+5a,w,Joleen,Rossignol,24.08.2013
+5a,m,Domenic Ramón,Schalow,20.08.2012
+5a,w,Dunia,Sileman,10.02.2013
+5a,w,Maria,Späth,09.01.2012
+5a,m,Nicklas Florian,Steubesandt,20.10.2011
+5a,w,Anna,Tran,31.05.2012
+5a,m,Marlon Sebastian,Triebler,02.06.2012
+5a,w,Milvia Pooja,Wanderer,25.07.2013
+5b,m,Lukas Orlando,Basilio Borrmann,13.11.2012
+5b,m,Nils,Brösdorf,11.01.2013
+5b,m,Bao Nam,Bùi,28.12.2012
+5b,m,Ben Enrico,Donner,12.12.2012
+5b,m,Fabian Daniel,Glor,17.09.2012
+5b,m,Murad,Gottfried,08.08.2012
+5b,w,Isabelle Monique,Grieger,01.10.2012
+5b,m,Conner René,Haase,01.06.2012
+5b,w,Sara,Hadschi,22.02.2012
+5b,m,Tim-Pascal,Hase,29.01.2013
+5b,w,Mara-Summer,Ihlenfeld,09.02.2013
+5b,m,Dominik Taylor,Knüttel,02.04.2012
+5b,w,Leonie Alexandra,Lechner,27.09.2011
+5b,m,Leon,Loose,10.11.2012
+5b,w,Lucy,Müller,24.12.2012
+5b,w,Emina,Muric,19.07.2013
+5b,m,Tyler Jerome,Neumann,25.09.2011
+5b,m,Lucas,Reschke,23.04.2012
+5b,m,Jay Luca Sven,Rölle,06.09.2011
+5b,w,Lea,Schneidereit,14.02.2013
+5b,w,Lea-Jolie,Sillke,23.05.2013
+5b,w,Linda,Thai,06.02.2012
+5b,w,Yasmine,Wendt,10.07.2012
+5b,m,Lennard Elyas,Witt,24.04.2012
+5b,w,Lea Sophie,Zimmermann,07.06.2011
+5b,m,Benny,Zocher,01.07.2012
+5c,w,Tsvetelina,Angelova,12.10.2012
+5c,m,Max,Dieser,17.06.2012
+5c,m,Dzanan,Dzombic,27.04.2013
+5c,w,Ekatherina,Enache,25.08.2013
+5c,m,Ben Levin,Gieseler,21.03.2013
+5c,m,Linus Eliah,Hartmann,05.08.2013
+5c,m,Ryan Rodney,Indi Borges Lima,20.09.2012
+5c,m,Leonidas,Karakidis,20.12.2011
+5c,m,Felix,Kretschmer,14.06.2013
+5c,m,Leon-Pascal,Kuhn,12.07.2011
+5c,w,Judy,Lüder,15.05.2013
+5c,m,Yasin,Magomedov,06.09.2012
+5c,w,Nicole,Mischanin,23.10.2012
+5c,m,Patrick Joel,Neumann,11.09.2012
+5c,m,Timmy Nhat Anh,Nguyen,28.02.2013
+5c,w,Lordina Adepa,Nyarko,16.12.2012
+5c,w,Melina,Riemey,12.08.2013
+5c,w,Jasmin Carrie,Sabasch,15.08.2013
+5c,w,Lea,Schönfeld,04.07.2013
+5c,m,Kiran René,Schulz,15.04.2013
+5c,m,Ian Maik,Stolzenberg,18.03.2013
+5c,w,Melissa Maja,Straus,31.01.2013
+5c,m,Daniel,Sys,21.02.2013
+5c,w,Stella Emily Cassandra,Wollermann,06.04.2013
+5c,w,Ayla Sevgi,Yazici,01.12.2012
+5c,w,Leny-Laney,Zeyß,25.02.2013
+5c,w,Cassandra,Ziersch,14.06.2013
+5c,m,Yosuf,Sulaiman-Khail,01.01.2013
+5d,m,Leon Ilja Teejay,Adler,09.03.2013
+5d,w,Emilia,Alameddine,23.07.2013
+5d,m,Nico Alexander,Brudlo,20.07.2012
+5d,m,Denis,Cinar,03.06.2012
+5d,m,Mailo Joel,Danneberg,15.11.2012
+5d,m,David Gia Bao,Doan,07.05.2013
+5d,m,Tyler,El Zounji,22.01.2012
+5d,m,Luca Collin Klaus,Fengler,24.09.2012
+5d,m,Timo,Fischer,17.10.2012
+5d,m,Bryan Bradney,Indi Borges Lima,20.09.2012
+5d,w,Diana,Kaiser,15.11.2011
+5d,w,Yuliia,Khvorostianenko,08.07.2012
+5d,w,Zoe Celine,Kirsch,10.10.2012
+5d,w,Lucy,Lehmann,24.08.2013
+5d,w,Paula,Lukša,30.08.2012
+5d,m,Jeremy,Möbius,27.02.2013
+5d,m,Emanuel,Monachogios,09.11.2011
+5d,w,Jenny,Nguyen,07.03.2013
+5d,w,Emily,Nguyen,09.01.2013
+5d,w,Chizara Janelle,Okechukwu,29.09.2013
+5d,m,Joel Lukas,Palm,21.12.2012
+5d,w,Josephine,Perner,05.12.2011
+5d,m,Dean Collin,Schmidt,26.08.2011
+5d,w,Sophie Maria,Seidel,28.01.2013
+5d,m,Alan Gabriel,Sznajder,18.01.2011
+5d,m,Phuc,Tran,31.05.2013
+5d,m,Louis,Wendt,15.12.2012
+6a,w,Hope Angelina,Boahemaa,23.04.2012
+6a,w,Nalin,Alsando,08.01.2012
+6a,w,Celine-Leonie Sophie,Bäck,21.02.2012
+6a,w,Sapphire,Harten,27.04.2012
+6a,m,Tyler Matthias Martin,Brusky,01.04.2011
+6a,w,Charlene,Merbach,31.10.2011
+6a,w,Lisa-Marie,Cornelius,16.02.2012
+6a,m,Phillip,Habermann,11.04.2011
+6a,m,Steven,Halbleib,15.02.2011
+6a,w,Stella,Handwerk,12.11.2011
+6a,w,Mayar,Alyan,04.10.2012
+6a,m,Tony Thuan,Hoang,19.05.2012
+6a,m,Edgar,Jakovcov,08.12.2010
+6a,m,Alikhan,Khazhmuradov,20.09.2010
+6a,w,Sophie,Kundik,05.10.2011
+6a,m,Nicklas Detlef,Lenz,18.07.2011
+6a,w,Lenya-Maxima,Marx,12.12.2011
+6a,w,Sina-Luise,Neumann,20.06.2012
+6a,m,Lennox Lee,Oeser,28.12.2010
+6a,m,Helat,Omar,30.11.2012
+6a,m,Jayden,Reimers,08.07.2011
+6a,m,Felix Jonas,Riel,03.09.2011
+6a,m,Bruno Maik,Stensky,13.08.2012
+6a,w,Anita,Tollmann,28.06.2012
+6a,w,Emine,Yagmur,02.07.2012
+6a,w,Jennifer,Tran,01.04.2011
+6b,w,Vivian,Braun,01.01.2010
+6b,m,Waleed,Abdulmushen,25.07.2010
+6b,w,Lea Luna,Chlebik,11.04.2011
+6b,m,Yusuf,Ekinci,18.10.2011
+6b,w,Elina,Fest,07.05.2011
+6b,m,Marc-Danilo,Ha,20.03.2012
+6b,w,Setayesh,Habibi,03.05.2012
+6b,m,Leon,Ignatius,14.07.2012
+6b,w,Lisa,Lý Gia Han,18.05.2012
+6b,m,Philip,Nguyen,24.05.2012
+6b,w,Quynh Mai Cherry,Nguyen,29.06.2011
+6b,m,Maddox-Maliq,Nieher,08.03.2012
+6b,w,Marie,Regling,17.01.2011
+6b,w,Hana,Regula,18.06.2012
+6b,w,Amely Sophie,Reiser,13.01.2012
+6b,w,Angel,Roth,27.01.2011
+6b,m,Lukas Ralf,Schöppe,04.05.2011
+6b,m,Elias,Schumann,04.03.2012
+6b,w,Ilona,Stehr,16.11.2010
+6b,w,Sorina Thyra,Stuhlert,19.06.2011
+6b,w,Annabelle,Vandamme,17.07.2011
+6b,w,Marja Marie,Walther,23.11.2011
+6b,m,Liam Henry,Weigmann,25.12.2011
+6b,w,Lea-Isabella,Witzki,04.09.2010
+6b,w,Hala,Akeel,01.01.2012
+6b,m,Mohammad,AliAljaja,05.04.2011
+6c,w,Bgabriela Nevenova,Angelova,28.05.2011
+6c,m,Luca,Bakalla,11.03.2012
+6c,w,Pia Marie,Barß,02.07.2012
+6c,m,Eduard,Bolboceanu,14.02.2011
+6c,w,Joyce Joline,Blaszak,22.06.2010
+6c,w,Vivian Sabine,Brandt,02.06.2011
+6c,m,Duc Cuong,Dang,13.02.2012
+6c,w,Maria,Erdneev,11.01.2012
+6c,m,Filip,Gzyl,27.09.2011
+6c,m,Aaron René,Haase,15.07.2010
+6c,m,Oaul Lennox,Hedler,23.07.2011
+6c,w,Lindsay,Herzer,06.10.2010
+6c,m,Abdurakhman Patakhowitsch,Kazimagomedov,12.12.2011
+6c,m,Marces,Knack,29.06.2011
+6c,w,Finja Marie,Koch,12.11.2011
+6c,m,Riccardo Paul,Kupferschmidt,10.11.2010
+6c,m,Tien Ngoc Lukas,Nguyen,14.12.2011
+6c,m,Chisom Jeffrey,Okechukwu,02.10.2011
+6c,m,Danielius,Puskepalis,01.10.2010
+6c,m,David Quang Huy,Quach,31.01.2012
+6c,w,Victoria,Ragulina,23.04.2011
+6c,m,Julien-Joel,Reytor,22.01.2011
+6c,w,Khadeeja,Saad,09.11.2010
+6c,w,Diana,Rietz,21.02.2012
+6c,m,Florian,Vogt,28.11.2011
+6c,w,Dina,Zecirovic,23.04.2011
+6c,m,Kai,Brühn,28.06.2011
+6d,w,Baraa,Al Lahib,06.07.2012
+6d,w,Isabell,Bartmann,08.06.2012
+6d,m,Jon Patrick,Begler,07.07.2011
+6d,w,Cady Jane,Busse,07.07.2012
+6d,m,Tom Kean,Eggert,11.08.2012
+6d,w,Hannah-Joline,Fräbel,11.03.2011
+6d,m,Manuel,Furchert,21.12.2011
+6d,m,Mattes,Götze,24.06.2012
+6d,w,Emma Sophia,Hedtke,01.08.2012
+6d,m,Leon Kim,Heiert,25.12.2011
+6d,m,Kian Julien,Hein,22.08.2012
+6d,w,Nina Michelle,Klein,22.11.2010
+6d,m,Oliver Jörg,Lenz,16.09.2012
+6d,w,Lara,Manla Muhamad,07.08.2012
+6d,w,Samia,Omar Moumin,16.09.2011
+6d,m,Mohammad Hakim,Rustami,25.12.2011
+6d,w,Leyla,Riemey,29.06.2011
+6d,m,Ekamjot Singh,Saini,11.03.2010
+6d,w,Michelle,Schnarr,11.01.2012
+6d,w,Amina,Schoipova,19.03.2011
+6d,w,Jesmina,Velcani,30.08.2011
+6d,w,Emma,Strahl,29.06.2011
+6d,w,Melisha Elisa,Vos,08.11.2011
+6d,m,Radharani,Winene,18.08.2012
+6d,m,Robert,Sudelainen,16.09.2011
+6d,m,Rahmuddin,Mohammadi,01.01.2010
+0,mw,Pupil,01,01.01.2010
+0,mw,Pupil,02,01.01.2010
+0,mw,Pupil,03,01.01.2010
+0,mw,Pupil,04,01.01.2010
+0,mw,Pupil,05,01.01.2010
+0,mw,Pupil,06,01.01.2010
+0,mw,Pupil,07,01.01.2010
+0,mw,Pupil,08,01.01.2010
+0,mw,Pupil,09,01.01.2010
+0,mw,Pupil,10,01.01.2010
+0,mw,Pupil,11,01.01.2010
+0,mw,Pupil,12,01.01.2010
+0,mw,Pupil,13,01.01.2010
+0,mw,Pupil,14,01.01.2010
+0,mw,Pupil,15,01.01.2010
+0,mw,Pupil,16,01.01.2010

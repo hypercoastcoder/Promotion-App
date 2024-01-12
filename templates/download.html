@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>ProMove</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/styles.css') }}">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="shortcut icon" href="{{ url_for('static', filename='img/deployed_code_FILL0_wght400_GRAD0_opsz24.svg') }}"> <!-- Tilte icon-->
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,800;1,100&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="banner">
+            <div class="icon-2">
+                <img src="{{ url_for('static', filename='img/deployed_code_update_FILL0_wght400_GRAD0_opsz24.svg') }}" width="55" height="55" alt="">
+            </div>
+        <div class="title">
+            <h1>Promotion Erfolgreich Abgeschlossen!</h1>
+        </div>
+        <div class="output">
+            {% for filename in files %}
+                <a href="{{ url_for('download_file', filename=filename) }}">{{filename}}</a></br>
+            {% endfor %}
+        </div>
+        <div class="home-button">
+            <button class="button-37"><a href="home">Erneut Promovieren</a></button>
+        </div>
+    </div>
+    </body>
+</html>
